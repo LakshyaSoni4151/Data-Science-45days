@@ -127,88 +127,88 @@
 #     print("value=",d[i])
 
 #question
-d = {
-    "Message": "Number of Post office(s) found: 5",
-    "Status": "Success",
-    "PostOffice": [
-        {
-            "Name": "Bali",
-            "Description": "",
-            "BranchType": "Sub Post Office",
-            "DeliveryStatus": "Delivery",
-            "Taluk": "Bali",
-            "Circle": "Bali",
-            "District": "Pali",
-            "Division": "Pali",
-            "Region": "Jodhpur",
-            "State": "Rajasthan",
-            "Country": "India",
-        },
-        {
-            "Name": "Boya",
-            "Description": "",
-            "BranchType": "Branch Post Office",
-            "DeliveryStatus": "Delivery",
-            "Taluk": "Bali",
-            "Circle": "Bali",
-            "District": "Pali",
-            "Division": "Pali",
-            "Region": "Jodhpur",
-            "State": "Rajasthan",
-            "Country": "India",
-        },
-        {
-            "Name": "Dantiwara",
-            "Description": "",
-            "BranchType": "Branch Post Office",
-            "DeliveryStatus": "Delivery",
-            "Taluk": "Bali",
-            "Circle": "Bali",
-            "District": "Pali",
-            "Division": "Pali",
-            "Region": "Jodhpur",
-            "State": "Rajasthan",
-            "Country": "India",
-        },
-        {
-            "Name": "Kot- Baliyan",
-            "Description": "",
-            "BranchType": "Branch Post Office",
-            "DeliveryStatus": "Delivery",
-            "Taluk": "Bali",
-            "Circle": "Bali",
-            "District": "Pali",
-            "Division": "Pali",
-            "Region": "Jodhpur",
-            "State": "Rajasthan",
-            "Country": "India",
-        },
-        {
-            "Name": "Sela",
-            "Description": "",
-            "BranchType": "Branch Post Office",
-            "DeliveryStatus": "Delivery",
-            "Taluk": "Bali",
-            "Circle": "Bali",
-            "District": "Pali",
-            "Division": "Pali",
-            "Region": "Jodhpur",
-            "State": "Rajasthan",
-            "Country": "India",
-        },
-    ],
-}
+# d = {
+#     "Message": "Number of Post office(s) found: 5",
+#     "Status": "Success",
+#     "PostOffice": [
+#         {
+#             "Name": "Bali",
+#             "Description": "",
+#             "BranchType": "Sub Post Office",
+#             "DeliveryStatus": "Delivery",
+#             "Taluk": "Bali",
+#             "Circle": "Bali",
+#             "District": "Pali",
+#             "Division": "Pali",
+#             "Region": "Jodhpur",
+#             "State": "Rajasthan",
+#             "Country": "India",
+#         },
+#         {
+#             "Name": "Boya",
+#             "Description": "",
+#             "BranchType": "Branch Post Office",
+#             "DeliveryStatus": "Delivery",
+#             "Taluk": "Bali",
+#             "Circle": "Bali",
+#             "District": "Pali",
+#             "Division": "Pali",
+#             "Region": "Jodhpur",
+#             "State": "Rajasthan",
+#             "Country": "India",
+#         },
+#         {
+#             "Name": "Dantiwara",
+#             "Description": "",
+#             "BranchType": "Branch Post Office",
+#             "DeliveryStatus": "Delivery",
+#             "Taluk": "Bali",
+#             "Circle": "Bali",
+#             "District": "Pali",
+#             "Division": "Pali",
+#             "Region": "Jodhpur",
+#             "State": "Rajasthan",
+#             "Country": "India",
+#         },
+#         {
+#             "Name": "Kot- Baliyan",
+#             "Description": "",
+#             "BranchType": "Branch Post Office",
+#             "DeliveryStatus": "Delivery",
+#             "Taluk": "Bali",
+#             "Circle": "Bali",
+#             "District": "Pali",
+#             "Division": "Pali",
+#             "Region": "Jodhpur",
+#             "State": "Rajasthan",
+#             "Country": "India",
+#         },
+#         {
+#             "Name": "Sela",
+#             "Description": "",
+#             "BranchType": "Branch Post Office",
+#             "DeliveryStatus": "Delivery",
+#             "Taluk": "Bali",
+#             "Circle": "Bali",
+#             "District": "Pali",
+#             "Division": "Pali",
+#             "Region": "Jodhpur",
+#             "State": "Rajasthan",
+#             "Country": "India",
+#         },
+#     ],
+# }
 
-print(d["Message"])
-print(d["Status"])
+# print(d["Message"])
+# print(d["Status"])
 
-for i in d["PostOffice"]:
-    print(i["Name"])
-    print(i["Taluk"])
-    print(i["Circle"])
-    print(i["District"])
-    print(i["Division"])
-    print(i["Region"])
-    print(i["State"])
-    print(i["Country"])
-    print("\n")
+# for i in d["PostOffice"]:
+#     print(i["Name"])
+#     print(i["Taluk"])
+#     print(i["Circle"])
+#     print(i["District"])
+#     print(i["Division"])
+#     print(i["Region"])
+#     print(i["State"])
+#     print(i["Country"])
+#     print("\n")
